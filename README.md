@@ -3,8 +3,8 @@
 <p><em>Software Enginner <a href="http://www.unb.br"></a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: Dynessabeid](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/)
-[![Linkedin: Dynessabeid](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dyness-kasaizi-3544ba252/)](https://www.linkedin.com/in/dyness-kasaizi-3544ba252/)
+[![Twitter: Dynessabeid](https://img.shields.io/twitter/follow/Dyness-Kasaizi?style=social)](https://twitter.com/)
+[![Linkedin: Dynessabeid](https://img.shields.io/badge/-Dyness-Kasaizi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dyness-kasaizi-3544ba252/)](https://www.linkedin.com/in/dyness-kasaizi-3544ba252/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
