@@ -5,7 +5,6 @@
 
 [![Twitter: Dynessabeid](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/)
 [![Linkedin: Dynessabeid](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in//)
-[![GitHub Dynessabeid](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
