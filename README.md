@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: Dynessabeid](https://img.shields.io/twitter/follow/Dyness-Kasaizi?style=social)](https://twitter.com/)
-[![Linkedin: Dynessabeid](https://img.shields.io/badge/-Dyness-Kasaizi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dyness-kasaizi-3544ba252/)](https://www.linkedin.com/in/dyness-kasaizi-3544ba252/)
+[![Linkedin: Dynessabeid](https://img.shields.io/badge/-DynessKasaizi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dyness-kasaizi-3544ba252/)](https://www.linkedin.com/in/dyness-kasaizi-3544ba252/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
